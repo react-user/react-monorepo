@@ -1,0 +1,18 @@
+{
+    "name": "Common UI",
+    "short_name": "Common UI",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "type": "image/x-icon",
+            "sizes": "32x32"
+        },
+        {
+            "src": "common-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+}

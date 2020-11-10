@@ -1,0 +1,12 @@
+export const Color = {
+    COLOR_BLACK: "#000000",
+    COLOR_GREEN: "#15C39B",
+    COLOR_GREEN_DARK: "#008757",
+    COLOR_GREEN_LIGHT: "#00EDC5",
+    COLOR_GREY: "#E0E0E0",
+    COLOR_GREY_DARK: "#333333",
+    COLOR_TEAL: "#54BAC9",
+    COLOR_TEAL_DARK: "#2994A9",
+    COLOR_TEAL_LIGHT: "#6EC4D1",
+    COLOR_WHITE: "#ffffff",
+} as const;
