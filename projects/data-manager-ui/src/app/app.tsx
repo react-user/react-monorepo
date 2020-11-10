@@ -1,8 +1,4 @@
-import {
-    AppContainer,
-    PageContainer,
-    PageImage,
-} from "@react-user/common-ui";
+import { AppContainer, PageContainer, PageImage } from "@react-user/common-ui";
 import React, { FunctionComponent } from "react";
 
 export const App: FunctionComponent = () => {

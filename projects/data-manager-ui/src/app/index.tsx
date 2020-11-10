@@ -5,7 +5,7 @@ import { App } from "./app";
 // Aplication entry point
 ReactDOM.render(
     <StrictMode>
-        <App/>
+        <App />
     </StrictMode>,
     document.getElementById("root") as HTMLElement
 );
